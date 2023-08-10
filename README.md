@@ -20,7 +20,7 @@ Les notebooks fournis permettent de reproduire les expériences du rapport :
 
 ## Utilisation
 
-Les notebooks peuvent être utilisés directement, et sont indépendants - à l'exception de Sep_profondeur.ipynb qui requiert d'avoir exécuté Generation_Eldan_Shamir.ipynb au préalable si l'on utilisé une dimension d'entrée différente de 5 (pour d=5, les données sont directements fournis au téléchargement dans 'data/').
+Les notebooks peuvent être utilisés directement, et sont indépendants - à l'exception de Sep_profondeur.ipynb qui requiert d'avoir exécuté Generation_Eldan_Shamir.ipynb au préalable si l'on souhaite utiliser une dimension d'entrée différente de 5 (pour d=5, les données sont directements fournies au téléchargement dans 'data/').
 
 ## Licences
 
