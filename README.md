@@ -15,7 +15,8 @@ Les notebooks fournis permettent de reproduire les expériences du rapport :
 - Spectres_covariances.ipynb, pour les parties 2.4.2 et 2.4.3 (figures 2 et 5) ;
 - Echantillonnage_gaussien.ipynb, pour la partie 2.4.3 (figures 3, 4 et 6) ;
 - Generation_Eldan_Shamir.ipynb, pour la génération des données de la partie 3.2.2 (tirés de Sun et al. (2018), https://github.com/syitong/randrelu) ;
-- Sep_profondeur.ipynb, pour la partie 2.4.2 (figure 9).
+- Sep_profondeur.ipynb, pour la partie 2.4.2 (figure 9) ;
+- Visualisation_frontieres.ipynb, pour l'annexe A.2  (figures 10-13).
 
 ## Utilisation
 
